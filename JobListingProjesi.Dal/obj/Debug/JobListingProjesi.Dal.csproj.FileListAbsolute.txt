@@ -1,0 +1,15 @@
+C:\Users\burak\source\repos\JobListingProjesi\JobListingProjesi.Dal\obj\Debug\JobListingProjesi.Dal.csprojAssemblyReference.cache
+C:\Users\burak\source\repos\JobListingProjesi\JobListingProjesi.Dal\bin\Debug\JobListingProjesi.Dal.dll.config
+C:\Users\burak\source\repos\JobListingProjesi\JobListingProjesi.Dal\bin\Debug\JobListingProjesi.Dal.dll
+C:\Users\burak\source\repos\JobListingProjesi\JobListingProjesi.Dal\bin\Debug\JobListingProjesi.Dal.pdb
+C:\Users\burak\source\repos\JobListingProjesi\JobListingProjesi.Dal\bin\Debug\EntityFramework.dll
+C:\Users\burak\source\repos\JobListingProjesi\JobListingProjesi.Dal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\burak\source\repos\JobListingProjesi\JobListingProjesi.Dal\bin\Debug\JobListingProjesi.Model.dll
+C:\Users\burak\source\repos\JobListingProjesi\JobListingProjesi.Dal\bin\Debug\JobListingProjesi.Model.pdb
+C:\Users\burak\source\repos\JobListingProjesi\JobListingProjesi.Dal\bin\Debug\EntityFramework.xml
+C:\Users\burak\source\repos\JobListingProjesi\JobListingProjesi.Dal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\burak\source\repos\JobListingProjesi\JobListingProjesi.Dal\obj\Debug\JobListingProjesi.Dal.csproj.CopyComplete
+C:\Users\burak\source\repos\JobListingProjesi\JobListingProjesi.Dal\obj\Debug\JobListingProjesi.Dal.dll
+C:\Users\burak\source\repos\JobListingProjesi\JobListingProjesi.Dal\obj\Debug\JobListingProjesi.Dal.pdb
+C:\Users\burak\source\repos\JobListingProjesi\JobListingProjesi.Dal\obj\Debug\JobListingProjesi.Dal.Migrations.version10.resources
+C:\Users\burak\source\repos\JobListingProjesi\JobListingProjesi.Dal\obj\Debug\JobListingProjesi.Dal.csproj.GenerateResource.cache

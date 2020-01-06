@@ -1,0 +1,5 @@
+C:\Users\burak\source\repos\JobListingProjesi\JobListingProjesi.Model\obj\Debug\JobListingProjesi.Model.csprojAssemblyReference.cache
+C:\Users\burak\source\repos\JobListingProjesi\JobListingProjesi.Model\bin\Debug\JobListingProjesi.Model.dll
+C:\Users\burak\source\repos\JobListingProjesi\JobListingProjesi.Model\bin\Debug\JobListingProjesi.Model.pdb
+C:\Users\burak\source\repos\JobListingProjesi\JobListingProjesi.Model\obj\Debug\JobListingProjesi.Model.dll
+C:\Users\burak\source\repos\JobListingProjesi\JobListingProjesi.Model\obj\Debug\JobListingProjesi.Model.pdb
